@@ -7,8 +7,6 @@ React for the frontend
 
 REST API for communication between the frontend and backend
 
-🔗 Live Demo or Repository Link:
-https://github.com/kasunldesilva/sample
 
 🛠️ Tech Stack
 Backend: Django, Django REST Framework
